@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My JAMStack Blog'
+theme = "ananke"
+Paginate = 3 
+
+[params]
+ twitter = "https://twitter.com/programmingwa"
+ description = "The last theme you'll ever need. Maybe."
+ featured_image = "/images/computer.jpg"
